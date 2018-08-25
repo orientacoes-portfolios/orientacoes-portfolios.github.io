@@ -3,7 +3,7 @@ layout: page
 title: Materiais
 ---
 
-Nesta página seguem materiais adicionais sobre a utilização de portfólios no processo de aprendizagem. 
+Nesta página seguem materiais adicionais sobre a utilização de portfólios no processo de aprendizagem. A depender de sua conexão com a internet, os materiais podem demorar a aparecer.
 
 
 Otrenti, Eloá, et al. **"Portfólio reflexivo como método de avaliação na residência de gerência de serviços de enfermagem."** Semina: Ciências Biológicas e da Saúde 32.1 (2011): 41-46.
