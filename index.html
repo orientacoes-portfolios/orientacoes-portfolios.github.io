@@ -1,17 +1,30 @@
 ---
 layout: default
 ---
-<!-- Posts -->
-<ul id="posts">
 
-	{% for post in paginator.posts %}
+<article id="page">
+	
+  <h2 id="introdução">Introdução</h2>
+<p>O termo portfólio origina-se da combinação de dois vocábulos latinos, <strong>portare</strong>, cujo significado é trazer, portar, transportar, e <strong>foliun</strong>, que significa folha. Portfólio surgiu no campo das artes como uma espécie de book, em que os diversos artistas apresentassem seus trabalhos. No final dos anos 80 e 90 do século XX, o portfólio passou a ser utilizado em escolas e universidades do Estados Unidos. No Brasil, encontra-se na literatura que o portfólio vem sendo utilizado principalmente nas séries iniciais da Educação Básica e no Ensino Superior.</p>
 
-	  <li class="post">
-	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{%if post.header %}{{ post.header }}{% else %}{{ post.title }}{% endif %}</a></h2>
-      <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> <i>{{ post.date | date_to_string }}</i> </time>
-	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
-	  </li>
+<p>Muitos nomes são utilizados como <strong>portfa-fólio</strong>, <strong>processo-fólio</strong>, <strong>diário de bordo</strong>, <strong>Webfólio</strong> (quando sua construção envolve elementos da informática).</p>
 
-    {% endfor %}
+<h3 id="tipos-de-portfólios">Tipos de Portfólios</h3>
+<p>Na literatura encontram-se diversos tipos de portfólios:</p>
 
+<ul>
+  <li><strong>Portfólio Particular</strong>: Apresenta dados dos alunos, reunidos e coletados pelos professores a partir de entrevistas com os pais, estudos de casos. Aprofundam e ampliam o conhecimento do professor em relação ao aluno.</li>
+  <li><strong>Portfólio de aprendizagem</strong>: É a coleção do aluno, é aquela em que o professor e aluno
+selecionam anotações, rascunhos, esboços de projetos, amostras de trabalhos. Tornam-se
+fontes de consulta para ambos e fornecem elementos do aprendizado.</li>
+  <li><strong>Portfólio Demonstrativo</strong>: Uma coleção de amostras de trabalhos, relatos narrativos e outras
+evidências, para ser conferida pelos futuros professores, com o propósito de fornecer um
+registro contínuo de avaliação. (SHORES E GRACE,2001)</li>
 </ul>
+
+<h2 id="bibliografia">Bibliografia</h2>
+
+<h2 id="contato">Contato</h2>
+
+
+</article>
