@@ -5,6 +5,10 @@
 //Import
 @import "base", "mixin", "typography", "layout", "syntax.scss", "custom.scss";
 
+html {
+  background-image: url("/img/background.png");
+}
+
 .sep {}
 
 .sepText {
