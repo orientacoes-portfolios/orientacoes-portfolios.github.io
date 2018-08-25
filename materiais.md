@@ -12,3 +12,4 @@ Otrenti, Eloá, et al. **"Portfólio reflexivo como método de avaliação na re
 <br><br>
 Costa, Glauce Dias da, and Rosângela Minardi Mitre Cotta. **""Learning-by-doing": social representations of healthcare students regarding reflective portfolio as a teaching, learning and assessment method."** Interface-Comunicação, Saúde, Educação 18.51 (2014): 771-784.
 <embed src="./2.pdf" width="100%" height="1050px" type='application/pdf'>
+<br><br>

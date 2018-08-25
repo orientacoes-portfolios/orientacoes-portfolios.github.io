@@ -1,7 +1,6 @@
 ---
-layout: separator
+layout: page
 title: Orientações
-description: This page describes monochrome.
 ---
 
-
+{% include separator.html %}
