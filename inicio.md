@@ -21,6 +21,14 @@ registro contínuo de avaliação. (SHORES E GRACE,2001)
 
 ## Bibliografia
 
+Website relativo à pesquisa:<br>
+**Mestra**: Maria Elisângela Santos Lira<br>
+**Título**: "O portfólio no processo ensino aprendizagem no curso de graduação em enfermagem: O olhar do Aluno"
+
 ## Contato
+
+Maria Elisângela Santos Lira<br>
+Universidade Federal de Alagoas<br>
+Email: [lira.elisa@hotmail.com](mailto:lira.elisa@hotmail.com)
 
 <br><br>
